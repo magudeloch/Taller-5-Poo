@@ -15,5 +15,5 @@
 
 | # | Descripción |
 |---|-------------|
-| **Ejercicio 8.4 (Pág. 517)** | **Nómina** |
+| **Ejercicio 8.4 (Pág. 517)** | **Nómina**|
 | **Ejercicio 8.5 (Pág. 546)** | **Hotel**|
